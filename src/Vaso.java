@@ -7,6 +7,7 @@ public class Vaso {
         this.contenido = contenido;
     }
 
+    
     public int getContenido() {
         return this.contenido;
     }
